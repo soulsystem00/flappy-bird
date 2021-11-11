@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6603356005373077192}
   - component: {fileID: 6603356005373077191}
   - component: {fileID: 6603356005373077190}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: DownPipe
   m_TagString: Pipe2
   m_Icon: {fileID: 0}
@@ -70,7 +70,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1535008057
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 5905591752f5e814081092af6e97c4e1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -127,7 +127,7 @@ GameObject:
   - component: {fileID: 6603356006971088437}
   - component: {fileID: 6603356006971088436}
   - component: {fileID: 6603356006971088435}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: UpperPipe
   m_TagString: Pipe2
   m_Icon: {fileID: 0}
@@ -186,7 +186,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1535008057
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 5905591752f5e814081092af6e97c4e1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -243,7 +243,7 @@ GameObject:
   - component: {fileID: 6603356007171572229}
   - component: {fileID: 6603356007171572228}
   - component: {fileID: 6603356007171572227}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: DownPipeRemain
   m_TagString: Pipe2
   m_Icon: {fileID: 0}
@@ -302,7 +302,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1535008057
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: e2fb50b3edba46643abe7441589c5786, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -355,7 +355,7 @@ GameObject:
   - component: {fileID: 6603356007324631187}
   - component: {fileID: 6603356007324631186}
   - component: {fileID: 6603356007324631185}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: UpperPipeRemain
   m_TagString: Pipe2
   m_Icon: {fileID: 0}
@@ -414,7 +414,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1535008057
-  m_SortingLayer: 1
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: e2fb50b3edba46643abe7441589c5786, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
